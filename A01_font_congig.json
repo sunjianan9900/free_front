@@ -1,0 +1,23 @@
+{
+	"download_config": {
+		"站酷快乐体": "https://raw.githubusercontent.com/sunjianan9900/free_front/master/zkHappy.ttf",
+		"站酷黑体": "https://raw.githubusercontent.com/sunjianan9900/free_front/master/zkHT.ttf",
+		"包图小白体": "https://raw.githubusercontent.com/sunjianan9900/free_front/master/baotu.ttf",
+		"濑户字体": "https://raw.githubusercontent.com/sunjianan9900/free_front/master/setofont.ttf",
+		"Richie Brusher": "https://raw.githubusercontent.com/sunjianan9900/free_front/master/RichieBrusher.ttf"
+	},
+	"font_name": {
+		"zkHappy.ttf": "站酷快乐体",
+		"zkHT.ttf": "站酷黑体",
+		"baotu.ttf": "包图小白体",
+		"setofont.ttf": "濑户字体",
+		"RichieBrusher.ttf": "Richie Brusher"
+	},
+	"font_size": {
+		"zkHappy.ttf": "1.7M",
+		"zkHT.ttf": "4M",
+		"setofont.ttf": "12.5M",
+		"RichieBrusher.ttf": "211kb",
+		"baotu.ttf": "5.4M"
+	}
+}
