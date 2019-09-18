@@ -1,17 +1,20 @@
 {
+	"last_version":126,
+	"cost":0,
+	"url":"http://pics.xiaomilu.top/dmyt126.apk",
 	"download_config": {
-		"站酷快乐体": "https://raw.githubusercontent.com/sunjianan9900/free_front/master/zkHappy.ttf",
-		"站酷黑体": "https://raw.githubusercontent.com/sunjianan9900/free_front/master/zkHT.ttf",
-		"包图小白体": "https://raw.githubusercontent.com/sunjianan9900/free_front/master/baotu.ttf",
-		"濑户字体": "https://raw.githubusercontent.com/sunjianan9900/free_front/master/setofont.ttf",
-		"Richie Brusher": "https://raw.githubusercontent.com/sunjianan9900/free_front/master/RichieBrusher.ttf"
+		"站酷快乐体": "http://pics.xiaomilu.top/zkHappy.ttf",
+		"站酷黑体": "http://pics.xiaomilu.top/zkHT.ttf",
+		"包图小白体": "http://pics.xiaomilu.top/baotu.ttf",
+		"濑户字体": "http://pics.xiaomilu.top/setofont.ttf",
+		"RichieBrusher": "http://pics.xiaomilu.top/RichieBrusher.ttf"
 	},
 	"font_name": {
 		"zkHappy.ttf": "站酷快乐体",
 		"zkHT.ttf": "站酷黑体",
-		"baotu.ttf": "包图小白体",
 		"setofont.ttf": "濑户字体",
-		"RichieBrusher.ttf": "RichieBrusher.ttf"
+		"baotu.ttf": "包图小白体",
+		"RichieBrusher.ttf": "RichieBrusher"
 	},
 	"font_size": {
 		"zkHappy.ttf": "1.7M",
