@@ -1,7 +1,9 @@
 {
 	"last_version":140200,
+	"last_version_text":"1.0.0",
 	"cost":0,
 	"url":"http://pics.xiaomilu.top/app-142-2.apk",
+	"tips":"向左滑动弹幕即可进行更多设置",
 	"download_config": {
 		"站酷快乐体": "http://pics.xiaomilu.top/zkHappy.ttf",
 		"站酷黑体": "http://pics.xiaomilu.top/zkHT.ttf",
