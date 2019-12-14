@@ -1,28 +1,34 @@
 {
-	"last_version":140200,
-	"last_version_text":"1.0.0",
+	"last_version":1000100,
+	"last_version_text":"1.4.6",
 	"cost":0,
-	"url":"http://pics.xiaomilu.top/app-142-2.apk",
-	"tips":"向左滑动弹幕即可进行更多设置",
+	"url":"http://pics.xiaomilu.top/app-146.apk",
+	"tips":"已新增2款开源字体欢迎使用～",
 	"download_config": {
 		"站酷快乐体": "http://pics.xiaomilu.top/zkHappy.ttf",
 		"站酷黑体": "http://pics.xiaomilu.top/zkHT.ttf",
 		"包图小白体": "http://pics.xiaomilu.top/baotu.ttf",
 		"濑户字体": "http://pics.xiaomilu.top/setofont.ttf",
-		"RichieBrusher": "http://pics.xiaomilu.top/RichieBrusher.ttf"
+		"RichieBrusher": "http://pics.xiaomilu.top/RichieBrusher.ttf",
+		"沐瑶软笔手写体":"http://pics.xiaomilu.top/Muyao-Softbrush.ttf",
+		"清松手写体":"http://pics.xiaomilu.top/qssxt1.ttf"
 	},
 	"font_name": {
 		"zkHappy.ttf": "站酷快乐体",
 		"zkHT.ttf": "站酷黑体",
 		"setofont.ttf": "濑户字体",
 		"baotu.ttf": "包图小白体",
-		"RichieBrusher.ttf": "RichieBrusher"
+		"RichieBrusher.ttf": "RichieBrusher",
+		"Muyao-Softbrush.ttf": "沐瑶软笔手写体",
+		"qssxt1.ttf": "清松手写体"
 	},
 	"font_size": {
 		"zkHappy.ttf": "1.7M",
 		"zkHT.ttf": "4M",
 		"setofont.ttf": "12.5M",
 		"RichieBrusher.ttf": "211kb",
-		"baotu.ttf": "5.4M"
+		"baotu.ttf": "5.4M",
+		"Muyao-Softbrush.ttf": "2.23M",
+		"qssxt1.ttf": "6.3M"
 	}
 }
